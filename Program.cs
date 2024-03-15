@@ -7,6 +7,8 @@ namespace PZ_4
     {
         static void Main(string[] args)
         {
+            //Branch with all PZ_4 tasks
+
             /*
             int count = 50;
             int step = 2;
@@ -79,6 +81,7 @@ namespace PZ_4
             Console.WriteLine($"Text \"{text}\" include: {symbolCounter} \"{findSymbol}\" symbols");
             */
 
+            /*
             int firstAsciiSymbol = 97;
             int lastAsciiSymbol = 122;
             int countOfSymbols = 26;
@@ -92,6 +95,7 @@ namespace PZ_4
                 symbols[j] = (char)ascii[j];
                 Console.WriteLine($"Symbol: {symbols[j]} - ASCII: {ascii[j]}");
             }
+            */
         }
     }
 }
